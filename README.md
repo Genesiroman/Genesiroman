@@ -7,7 +7,8 @@
 </head>
 
 <body>
-  ## introducing myself 💬
+  ## Introducing myself 🚀
+  
   _I am a student with somes knowledge in web design. 
   For me, learning something new every day is very important, that's why I always seek to study, learn and execute. 
   I am currently studying for programming and perfecting my knowledge in design._
